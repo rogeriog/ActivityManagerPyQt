@@ -1,0 +1,8 @@
+Qualificacao,50,blue
+Art CsSbXU,40,cyan
+Art CsSbXdop,40,slateblue
+Art Guilherme,40,blueviolet
+Curso ML,35,gold
+Deutsch,45,darkred
+Exercicios,80,orange
+Meditacao,100,springgreen
